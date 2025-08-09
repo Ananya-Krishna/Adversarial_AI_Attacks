@@ -1,6 +1,6 @@
 ## Adversarial Techniques
 
-For my own organization, this repository covers a breadth of adversarial techniques and defenses for ML attacks with a few select code implementations. This is a highly comprehensive resource meant for **educational purposes** but not an exhaustive list (created Summer 2025).
+For my own organization, this repository covers a breadth of adversarial techniques and defenses for ML attacks with a few select code implementations. This is not an exhaustive list (created Summer 2025).
 
 ______
 
